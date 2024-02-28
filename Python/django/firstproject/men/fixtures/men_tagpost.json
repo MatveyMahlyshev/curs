@@ -1,0 +1,1 @@
+[{"model": "men.tagpost", "pk": 1, "fields": {"tag": "Кариеглазый", "slug": "brown-eyed"}}, {"model": "men.tagpost", "pk": 2, "fields": {"tag": "Высокий", "slug": "tall"}}]

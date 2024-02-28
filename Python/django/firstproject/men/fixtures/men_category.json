@@ -1,0 +1,1 @@
+[{"model": "men.category", "pk": 1, "fields": {"name": "Актёры", "slug": "actors"}}, {"model": "men.category", "pk": 2, "fields": {"name": "Спортсмены", "slug": "sportsmen"}}, {"model": "men.category", "pk": 3, "fields": {"name": "Музыканты", "slug": "musicians"}}]
